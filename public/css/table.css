@@ -16,6 +16,17 @@
     margin-top: 170px;
     margin-left: 415px;
 }
+
+.cards {
+    width: 320px;
+    height: 85px;
+}
+
+.bet {
+    margin-top: 15px;
+    margin-left: 120px;
+
+}
 .card-small {
   border: .2em solid black;
   border-radius: 10%;
